@@ -1,6 +1,6 @@
 from turtle import *
 
-Screen().bgcolor("green")
+Screen().bgcolor("orange")
 
 speed(10)
 
